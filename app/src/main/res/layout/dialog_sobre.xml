@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Versão: 1.0"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Developed by Noriaki Odan Junior"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Data de lançamento: 08/03/2015"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/btContato"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#0099CC"
+            android:gravity="center"
+            android:text="Contato"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_margin="16dp"/>
+
+    </LinearLayout>
+</LinearLayout>

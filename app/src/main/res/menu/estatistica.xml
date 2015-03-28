@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.senai.jogodavelha.EstatisticaActivity">
+
+    <item
+        android:id="@+id/action_sobre"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Sobre" />
+</menu>

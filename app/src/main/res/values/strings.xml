@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jogo da Velha</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jogo">JogoActivity</string>
+    <string name="title_activity_estatistica">EstatisticaActivity</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+
+</resources>
